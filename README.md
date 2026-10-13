@@ -37,7 +37,7 @@ O app lê automaticamente o arquivo `energia_ons_mensal.csv` localizado na pasta
 
 ## App publicado
 
-[https://explorador-de-energia-zcbz4tjnv74ujhssfnniqs.streamlit.app/](#)
+https://explorador-de-energia-zcbz4tjnv74ujhssfnniqs.streamlit.app/(#)
 
 ## Captura de tela
 
