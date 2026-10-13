@@ -37,10 +37,10 @@ O app lê automaticamente o arquivo `energia_ons_mensal.csv` localizado na pasta
 
 ## App publicado
 
-[Adicionar link do app publicado](#)
+[https://explorador-de-energia-zcbz4tjnv74ujhssfnniqs.streamlit.app/](#)
 
 ## Captura de tela
 
 Adicione uma imagem do painel ao projeto e atualize o caminho abaixo:
 
-![Captura de tela do Explorador de Energia](caminho/para/print.png)
+![Captura de tela do Explorador de Energia](Screenshot-Dashboard.png)
